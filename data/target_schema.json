@@ -1,0 +1,26 @@
+{
+  "employee_id": {
+    "description": "Unique identifier for the employee",
+    "type": "string"
+  },
+  "paygroup_code": {
+    "description": "Payroll group assigned to the employee",
+    "type": "string"
+  },
+  "work_state": {
+    "description": "State where the employee works",
+    "type": "string"
+  },
+  "cost_center": {
+    "description": "Cost center assigned to the employee",
+    "type": "string"
+  },
+  "regular_earnings": {
+    "description": "Employee regular earnings amount",
+    "type": "decimal"
+  },
+  "overtime_earnings": {
+    "description": "Employee overtime earnings amount",
+    "type": "decimal"
+  }
+}

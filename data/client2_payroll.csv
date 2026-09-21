@@ -1,0 +1,6 @@
+Worker_ID,Payroll_Frequency,State,Department,Regular_Pay,Overtime_Pay
+E1001,Bi-Weekly,New Jersey,Finance,2500.00,150.00
+E1002,Bi-Weekly,New York,Engineering,2800.00,200.00
+E1003,Weekly,Pennsylvania,Operations,2200.00,75.00
+E1004,Weekly,New Jersey,Finance,3100.00,0.00
+E1005,Bi-Weekly,New York,Engineering,2750.00,125.00

@@ -1,0 +1,24 @@
+# Mac files
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Streamlit
+.streamlit/
+
+# Local uploaded client files
+data/uploads/
+
+# Runtime evaluation logs
+results/eval_logs.jsonl
+
+# Environment variables / secrets
+.env
+.env.*
+
+# IDE
+.vscode/

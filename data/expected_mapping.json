@@ -1,0 +1,8 @@
+{
+  "EMP_NO": "employee_id",
+  "PAY_GRP": "paygroup_code",
+  "WORK_ST": "work_state",
+  "COST_CTR": "cost_center",
+  "REG_AMT": "regular_earnings",
+  "OT_AMT": "overtime_earnings"
+}

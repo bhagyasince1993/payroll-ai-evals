@@ -1,0 +1,19 @@
+{
+  "paygroup_code": {
+    "BW01": "BIWEEKLY_01",
+    "BW02": "BIWEEKLY_02",
+    "WK01": "WEEKLY_01"
+  },
+
+  "work_state": {
+    "NJ": "NEW_JERSEY",
+    "NY": "NEW_YORK",
+    "PA": "PENNSYLVANIA"
+  },
+
+  "cost_center": {
+    "CC100": "FINANCE",
+    "CC200": "ENGINEERING",
+    "CC300": "OPERATIONS"
+  }
+}

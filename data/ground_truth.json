@@ -1,0 +1,36 @@
+{
+  "EMP_NO": "employee_id",
+  "PAY_GRP": "paygroup_code",
+  "WORK_ST": "work_state",
+  "COST_CTR": "cost_center",
+  "REG_AMT": "regular_earnings",
+  "OT_AMT": "overtime_earnings",
+
+  "Worker_ID": "employee_id",
+  "Payroll_Frequency": "paygroup_code",
+  "State": "work_state",
+  "Department": "cost_center",
+  "Regular_Pay": "regular_earnings",
+  "Overtime_Pay": "overtime_earnings",
+
+  "Associate_ID": "employee_id",
+  "Pay_Cycle": "paygroup_code",
+  "Work_Location": "work_state",
+  "Dept_Code": "cost_center",
+  "Base_Wages": "regular_earnings",
+  "Extra_Hours_Pay": "overtime_earnings",
+
+  "EmployeeNumber": "employee_id",
+  "PaySchedule": "paygroup_code",
+  "WorkStateCode": "work_state",
+  "CostCenterCode": "cost_center",
+  "RegularEarnings": "regular_earnings",
+  "OvertimeEarnings": "overtime_earnings",
+
+  "Person_Key": "employee_id",
+  "Payroll_Group": "paygroup_code",
+  "Job_State": "work_state",
+  "Org_Unit": "cost_center",
+  "Normal_Wages": "regular_earnings",
+  "OT_Wages": "overtime_earnings"
+}
